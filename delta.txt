@@ -1,0 +1,44 @@
+Paragraph #0
+- than
++ than.
+- Lyndon
+- B
+- Johnson.
+
+But, one of his opponents in the primary was none other than Lyndon B Johnson.
+But, one of his opponents in the primary was none other than.
+
+Paragraph #1
+No changes
+
+Paragraph #2
+No changes
+
+Paragraph #3
+No changes
+
+Paragraph #4
+- “Johnson
++ Miller
+
+His helicopter tour became known as the “Johnson City Windmill” and rural votes for the primary swayed increasingly in Johnson’s favor
+His helicopter tour became known as the Miller City Windmill” and rural votes for the primary swayed increasingly in Johnson’s favor
+
+Paragraph #5
+No changes
+
+Paragraph #6
+- companies
++ startups
+
+We work with companies that have an existing product and well-defined identity
+We work with startups that have an existing product and well-defined identity
+
+Paragraph #7
+- ourselves,
++ ourselves
++ and,
+
+We produce everything ourselves, in-house, because we take pride in high quality material that you can rely on
+We produce everything ourselves and, in-house, because we take pride in high quality material that you can rely on
+
